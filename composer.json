@@ -1,5 +1,5 @@
 {
-  "name": "php-oauth",
+  "name": "undkonsorten/php-oauth",
   "description": "oauth lib",
   "license": ["MIT License"],
   "keywords": ["oauth"],
