@@ -1,0 +1,12 @@
+{
+  "name": "php-oauth",
+  "description": "oauth lib",
+  "license": ["MIT License"],
+  "keywords": ["oauth"],
+  "version": "1.0.0",
+  "autoload": {
+      "psr-4": {
+          "OAuth\\": "lib"
+      }
+  }
+}
